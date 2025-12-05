@@ -37,6 +37,7 @@ int mainMenu() {
     noecho();
     keypad(stdscr, TRUE);
     nodelay(stdscr, TRUE);
+    curs_set(0);
 
     char* points[4] = {"Play", "Quit"};
     int selected = 0;

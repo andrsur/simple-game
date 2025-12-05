@@ -157,6 +157,7 @@ int start_game() {
     noecho();
     keypad(stdscr, TRUE);
     nodelay(stdscr, TRUE);
+    curs_set(0);
 
     struct Player p;
     p.px = 0;
