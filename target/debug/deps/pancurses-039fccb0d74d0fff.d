@@ -1,0 +1,11 @@
+/home/andrsur/projects/fgm/target/debug/deps/pancurses-039fccb0d74d0fff.d: /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/lib.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/input.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/attributes.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/colorpair.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/unix/mod.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/unix/constants.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/window.rs
+
+/home/andrsur/projects/fgm/target/debug/deps/libpancurses-039fccb0d74d0fff.rmeta: /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/lib.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/input.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/attributes.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/colorpair.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/unix/mod.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/unix/constants.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/window.rs
+
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/lib.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/input.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/attributes.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/colorpair.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/unix/mod.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/unix/constants.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pancurses-0.17.0/src/window.rs:

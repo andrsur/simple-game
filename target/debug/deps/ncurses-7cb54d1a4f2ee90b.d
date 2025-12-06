@@ -1,0 +1,18 @@
+/home/andrsur/projects/fgm/target/debug/deps/ncurses-7cb54d1a4f2ee90b.d: /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/lib.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/ll.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/constants.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/mod.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/ll.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/wrapper.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/mod.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/ll.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/wrapper.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/constants.rs /home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out/raw_constants.rs /home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out/menu_constants.rs
+
+/home/andrsur/projects/fgm/target/debug/deps/libncurses-7cb54d1a4f2ee90b.rmeta: /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/lib.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/ll.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/constants.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/mod.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/ll.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/wrapper.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/mod.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/ll.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/wrapper.rs /home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/constants.rs /home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out/raw_constants.rs /home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out/menu_constants.rs
+
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/lib.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/ll.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/constants.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/mod.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/ll.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/panel/wrapper.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/mod.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/ll.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/wrapper.rs:
+/home/andrsur/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ncurses-6.0.1/src/menu/constants.rs:
+/home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out/raw_constants.rs:
+/home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out/menu_constants.rs:
+
+# env-dep:OUT_DIR=/home/andrsur/projects/fgm/target/debug/build/ncurses-57b2d9142e6f93db/out
