@@ -141,8 +141,6 @@ void update_map(struct Player *p, struct Object** objects, int objects_count, st
 void object_interact(struct Player *p, struct Object **objects) {
 }
 
-
-
 int start_game() {
     initscr();
     cbreak();
@@ -165,6 +163,22 @@ int start_game() {
     blocks.object = 'C';
     blocks.has_symbol = true;
 
+    struct ColideObjects blocks2;
+    blocks2.stpx = 15;
+    blocks2.enpx = 15;
+    blocks2.stpy = 4;
+    blocks2.enpy = 8;
+    blocks2.object = 'C';
+    blocks2.has_symbol = true;
+
+    struct ColideObjects blocks3;
+    blocks3.stpx = 15;
+    blocks3.enpx = 18;
+    blocks3.stpy = 8;
+    blocks3.enpy = 8;
+    blocks3.object = 'C';
+    blocks3.has_symbol = true;
+
     struct Object* objects[MAX_OBJECTS];
     int objects_count = 0;
 
@@ -172,6 +186,8 @@ int start_game() {
     int colide_objects_count = 0;
 
     colide_objects[colide_objects_count++] = &blocks;
+    colide_objects[colide_objects_count++] = &blocks2;
+    colide_objects[colide_objects_count++] = &blocks3;
 
     bool playing = true;
     update_map(&p, objects, objects_count, colide_objects, colide_objects_count, map_ris);
